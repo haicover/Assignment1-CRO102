@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644340750849",
+    "project_id": "ph39815-appphattriencanhan",
+    "storage_bucket": "ph39815-appphattriencanhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644340750849:android:ebc34c9bef4b4e43e73e00",
+        "android_client_info": {
+          "package_name": "com.ph39815_appphattriencanhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAts3nKwNzNbkS3ve7cyw0grS42dxNpLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

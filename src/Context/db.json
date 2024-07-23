@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "311b",
+      "name": "Ng dũ hạ",
+      "email": "hai@fpt.edu.vn",
+      "password": "hAi12345",
+      "gender": "Nam",
+      "height": "164",
+      "weight": "44"
+    },
+    {
+      "id": "3fbb",
+      "name": "nguyen long",
+      "email": "long@fpt.edu.vn",
+      "password": "long12345",
+      "gender": "nam",
+      "height": "164",
+      "weight": "44"
+    },
+    {
+      "id": "27cc",
+      "name": "NG HOA",
+      "email": "hoa@fpt.edu.vn",
+      "password": "hoa12345",
+      "gender": "Nam",
+      "height": "164",
+      "weight": "44"
+    }
+  ],
+  "books": [
+    {
+      "id": "f5c3",
+      "title": "esdsds",
+      "date": "2024-07-08T05:51:00.000Z"
+    }
+  ]
+}
